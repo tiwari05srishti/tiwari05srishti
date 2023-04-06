@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Srishti Tiwari
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Web Development and computer languages Python and C++
-- 💞️ I’m looking to collaborate on Basic ML algorithms and Web and App development.
+- 💞️ I’m looking to collaborate on App development.
 - 📫 How to reach me Email address : srishtirhd29@gmail.com
 
 <!---
